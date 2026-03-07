@@ -19,7 +19,7 @@ def find_grade(avg):
         return "Fail"
 
 def check_pass(m1, m2, m3):
-    if m1 and m2 and m3 >= 40:
+    if m1 >=40 and m2>=40 and m3 >= 40:
         return True
     else:
         return False
