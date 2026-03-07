@@ -24,9 +24,9 @@ def check_pass(m1, m2, m3):
     else:
         return False
 
-mark1 = input("Enter mark 1: ")
-mark2 = input("Enter mark 2: ")
-mark3 = input("Enter mark 3: ")
+mark1 = int(input("Enter mark 1: "))
+mark2 = int(input("Enter mark 2: "))
+mark3 = int(input("Enter mark 3: "))
 
 total = calculate_total(mark1, mark2, mark3)
 average = calculate_average(total)
