@@ -46,7 +46,11 @@ int main()
              scanf("%f",&y);
               printf("\n %.2f",pow(x,y));
               break;
-
+         case 'q':
+              printf("enter 1st number:");
+              scanf("%f",&x);
+              printf("\n %.2f",sqrt(x));
+              break;
          default:
               printf("exit");
               break;
