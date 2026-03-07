@@ -25,6 +25,13 @@ int main()
              scanf("%f",&y);
               printf("\n %.2f",(x-y));
               break;
+          case 'm':
+             printf("enter 1st number:");
+            scanf("%f",&x);
+            printf("enter 2nd number:");
+            scanf("%f",&y);
+              printf("\n %.2f",(x*y));
+              break;
          default:
               printf("exit");
               break;
