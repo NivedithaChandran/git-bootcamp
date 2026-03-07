@@ -5,7 +5,7 @@ def calculate_total(m1, m2, m3):
     return total
 
 def calculate_average(total):
-    average = total / 2
+    average = total / 3
     return average
 
 def find_grade(avg):
