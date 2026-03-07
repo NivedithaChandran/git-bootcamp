@@ -54,10 +54,7 @@ int main()
          default:
               printf("exit");
               break;
-        
      }
    }while(x!=0);
-
-
 return 0;
 }
