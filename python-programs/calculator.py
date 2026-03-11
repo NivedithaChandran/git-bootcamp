@@ -38,3 +38,4 @@ if check_pass(mark1, mark2, mark3):
     print("Grade:", grade)
 else:
     print("Student Failed")
+print("error code")
