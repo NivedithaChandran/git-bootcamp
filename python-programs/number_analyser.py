@@ -6,3 +6,5 @@ else:
     print("number is odd")
 square=num*num
 print("square of the number:",square)
+cube=num*num*num
+print("cube of the number:",cube)
