@@ -56,5 +56,6 @@ int main()
               break;
      }
    }while(x!=0);
+   printf"hello";
 return 0;
 }
