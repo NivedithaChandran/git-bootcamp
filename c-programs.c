@@ -57,6 +57,6 @@ int main()
      }
    }while(x!=0);
    printf"hello world";
-   printf"hello c";
+   printf"hello  c";
 return 0;
 }
